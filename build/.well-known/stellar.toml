@@ -1,29 +1,29 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"",
+"GCHTJ6AWQPO3TS24CBL4NNCN6FUCRA4YXU3XEMCXINCC4CX5LFT6ZFCW",
 ]
 
 [DOCUMENTATION]
-ORG_NAME=""
-ORG_URL=""
-ORG_DESCRIPTION=""
-ORG_LOGO=""
+ORG_NAME="Four Season Crypto Resort"
+ORG_URL="https://4seasonstellar.com"
+ORG_DESCRIPTION="Four Seasons is a luxury hotel chain known for exceptional service and upscale accommodations in worldwide locations, now on Stellar Blockchain."
+ORG_LOGO="https://ibb.co/zR1tTZw"
 
 [[PRINCIPALS]]
-name=""
+name="Sarah Tuite"
 
 
 [[CURRENCIES]]
-code=""
+code="4STN"
 status="live"
 display_decimals=2
-issuer=""
+issuer="GCHTJ6AWQPO3TS24CBL4NNCN6FUCRA4YXU3XEMCXINCC4CX5LFT6ZFCW"
 anchor_asset_type="crypto"
-name=""
-desc=""
-image=""
-fixed_number=
-max_number=
+name="4SeasonsToken"
+desc="The 4SeasonsToken is a loyalty token for the Four Seasons hotel chain, offering access to exclusive rewards and services, symbolizing luxury and enhancing guest experiences."
+image="https://ibb.co/7J2G7G3"
+fixed_number=1000000000
+max_number=1000000000
 is_unlimited=false
-#  was issued using the open and inclusive Stellar blockchain network.
+# 4SeasonsToken was issued using the open and inclusive Stellar blockchain network.

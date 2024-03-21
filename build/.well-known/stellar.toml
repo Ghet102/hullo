@@ -1,7 +1,7 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GCHTJ6AWQPO3TS24CBL4NNCN6FUCRA4YXU3XEMCXINCC4CX5LFT6ZFCW",
+"GCLR75H3QOLYLFPI2W6PV744IJDQAQWUTQ232LV3CJX3PBGQAZKV3E3I",
 ]
 
 [DOCUMENTATION]
@@ -18,7 +18,7 @@ name="Sarah Tuite"
 code="4STN"
 status="live"
 display_decimals=2
-issuer="GCHTJ6AWQPO3TS24CBL4NNCN6FUCRA4YXU3XEMCXINCC4CX5LFT6ZFCW"
+issuer="GCLR75H3QOLYLFPI2W6PV744IJDQAQWUTQ232LV3CJX3PBGQAZKV3E3I"
 anchor_asset_type="crypto"
 name="4SeasonsToken"
 desc="The 4SeasonsToken is a loyalty token for the Four Seasons hotel chain, offering access to exclusive rewards and services, symbolizing luxury and enhancing guest experiences."
